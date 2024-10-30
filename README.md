@@ -1,16 +1,54 @@
+<h2 align="center">Hi there! 👋</h2>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100030611265198) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/12thang6__/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thành-nguyễn-202001329/) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/thanhnguyen1206/) 
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nguyenducthanh1206&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nguyenducthanh1206&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducthanh1206&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=nguyenducthanh1206&icon=5&color=4)](https://visitcount.itsvg.in)
+## About me:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📫 How to reach me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thành-nguyễn-202001329/" target="blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100030611265198" target="blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png">
+  </a> 
+  <a href="https://www.youtube.com/@nguyenducthanh1206" target="blank">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+</p>
+
+## Skills: 
+<div align="center">
+hi
+</div>
+
+## Activities:
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenducthanh1206&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nguyenducthanh1206&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite" width="100%"/>
+    </td>
+    <td>     
+        <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="90%" align="center">
+    </td>
+  </tr>
+</table>
+
+# Certificates:
+
