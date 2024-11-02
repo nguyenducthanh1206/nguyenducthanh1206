@@ -20,13 +20,13 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thành-nguyễn-202001329/" target="blank">
+  <a href="https://www.linkedin.com/in/thành-nguyễn-202001329/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100030611265198" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100030611265198" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png">
   </a> 
-  <a href="https://www.youtube.com/@nguyenducthanh1206" target="blank">
+  <a href="https://www.youtube.com/@nguyenducthanh1206" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
 </p>
